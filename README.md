@@ -1,7 +1,5 @@
 # Excel-Sales-Analytics
 
-ATLIQ-Sales-and-Finance-report
-
 Through this project, I learned how to work with real-world sales data to analyze business performance from multiple perspectives, including customer, product, market, and financial (P&L) analysis. I developed a strong understanding of how to evaluate year-over-year sales growth, interpret customer-level performance, and identify both top revenue contributors and high-growth emerging accounts using structured data.
 
 I learned how rapid overall revenue growth (304.5% YoY in 2021) can sometimes hide revenue concentration risks, where a few large customers such as Amazon and AtliQ-owned channels contribute a significant share of total sales. This helped me understand the importance of balancing growth with risk diversification
