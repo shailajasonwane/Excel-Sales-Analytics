@@ -29,15 +29,15 @@ Additionally, the market and country-level analysis helped me understand how dif
 Overall, this project strengthened my skills in data analysis, business interpretation, and storytelling, and taught me how to transform raw data into actionable insights that can support strategic decision-making in sales, pricing, and market expansion.
 
 Technical & Soft Skills:
-Prociency in ETL methodology (Extract, Transform, Load).
-Skills to generate a date table using Power Query.
-Ability to derive fiscal months and quarters.
-Establishing data model relationships with Power Pivot.
-Proficiency in incorporating supplementary data into an existing data model.
-Utilizing DAX to create calculated columns.
+-Prociency in ETL methodology (Extract, Transform, Load).
+-Skills to generate a date table using Power Query.
+-Ability to derive fiscal months and quarters.
+-Establishing data model relationships with Power Pivot.
+-Proficiency in incorporating supplementary data into an existing data model.
+-Utilizing DAX to create calculated columns.
 
 Soft Skills:
-Refined understanding of Sales & Finance Reports
-Designing user-centric reports with empathy in mind.
-Optimization of report generation through meticulous fine-tuning.
-Developing a systematic approach to devising a report building plan.
+-Refined understanding of Sales & Finance Reports
+-Designing user-centric reports with empathy in mind.
+-Optimization of report generation through meticulous fine-tuning.
+-Developing a systematic approach to devising a report building plan.
